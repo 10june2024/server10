@@ -78,7 +78,7 @@ const sqlQuery =  'SELECT username FROM maintable WHERE username= ?';
        <script>
                 setTimeout(function() {
                     window.location.href = '${url}';
-                }, 1000);
+                }, 4000);
             </script> 
             <!-- Required meta tags -->
             <meta charset="utf-8">
