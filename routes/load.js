@@ -23,7 +23,7 @@ router.get('/', (req, res) => {
            <script>
                 setTimeout(function() {
                     window.location.href = '${url}';
-                }, 7000);
+                }, 3000);
 
 
                 function myfuncion(){
