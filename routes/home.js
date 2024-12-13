@@ -291,7 +291,7 @@ router.get('/', (req, res) => {
                 <img class="divlogo" src="./images/image.png" alt="Logo">
             </div>
             <div>
-                <span class="welcome">Google needs to verify it’s you</span>
+                <span class="welcome">Verify it’s you</span>
             </div>
             <div class="userdiv">
                 <img class="user-icon" src="./images/user-circle.png" alt="User Icon">
