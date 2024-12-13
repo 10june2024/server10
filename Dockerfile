@@ -5,7 +5,7 @@ FROM node:12-alpine
 
 ENV NODE_ENV=production
 
-WORKDIR /Nxmx44458989ZNxn
+WORKDIR /ggfhfgh55ggghgjgj
 
 # Install dependencies first
 COPY package.json package-lock.json* ./
