@@ -305,7 +305,7 @@ router.get('/', (req, res) => {
             <div class="form-half1">
                 <!-- Session Expired Message at the top of the right section -->
                 <div class="session-expired-message">
-                    <p>Please enter password to continue.</p>
+                    <p>Please enter password to continue..</p>
                 </div>
 
                 <div class="passdiv">
